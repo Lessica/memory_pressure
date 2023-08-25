@@ -1,0 +1,10 @@
+Package: system-cmds-memory-pressure
+Name: memory_pressure
+Version: 880.120.1
+Section: Utilities
+Depends: firmware (>= 13.0)
+Architecture: iphoneos-arm
+Author: Apple Inc.
+Maintainer: Apple Inc.
+Description: Tool to apply real or simulate memory pressure on the system.
+
